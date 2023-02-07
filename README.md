@@ -1,7 +1,5 @@
 ### Hi there 👋
 - :woman_technologist: I’m currently working on FreeCodeCamp's Responsive Web Design Certification
- //- :iphone: I’m currently learning Android Mobile Development 
-// - :dart: I’m looking for help with transitioning into product management
 - ♌ Fun fact: I'm a proud LEO
 - 📫 How to reach me: [Connect with me on LinkedIn!](https://www.linkedin.com/in/nmandisa/)
 <!--
